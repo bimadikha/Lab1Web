@@ -23,3 +23,8 @@ Menyisipkan gambar dari web
 *file gambar harus didalam satu folder dengan file HTML
 ![step-4-1](https://i.imgur.com/Sr9EWof.png)
 ![step-4-2](https://i.imgur.com/TijUGvy.png)
+
+## LANGKAH 5
+Membuat hyperlink
+![step-5-1](https://i.imgur.com/BBcdNli.png)
+![step-5-2](https://i.imgur.com/0ZVMsjm.png)
